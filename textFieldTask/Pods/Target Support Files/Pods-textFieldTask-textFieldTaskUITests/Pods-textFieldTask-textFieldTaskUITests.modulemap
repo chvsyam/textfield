@@ -1,0 +1,6 @@
+framework module Pods_textFieldTask_textFieldTaskUITests {
+  umbrella header "Pods-textFieldTask-textFieldTaskUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
